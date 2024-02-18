@@ -1,1 +1,3 @@
 # CryptoClustering
+
+This project delves into the fluctuation of cryptocurrency prices across various time intervals. It commences by normalizing the dataset and determining the optimal number of clusters through analysis. Subsequently, the Principal Component Analysis (PCA) model is employed to validate these findings, aiming to identify the most effective model in elucidating the data. It's essential to note that the observed results are not conclusive and would benefit from expert analysis. Additional expertise is necessary to draw definitive conclusions based on the findings
